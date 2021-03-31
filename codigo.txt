@@ -1,0 +1,11 @@
+git init = crear un nuevo repositorio de git
+git status = ver el estado del directorio de trabajo
+git add "nombre archivo" = anade un cambio del directorio de trabajo
+git config --global user.email ""
+git config --global user.name ""
+git commit= para crear la copio de seguridad
+  "i" para empezar a escribir
+  " esc:wq = para guardar
+git checkout "nombre archivo" = para descartar cambios
+git diff "nombre archivo" = para comparar los cambiar realizados
+git log = para ver quien realizo los cambios
